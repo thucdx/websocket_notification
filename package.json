@@ -1,0 +1,18 @@
+{
+  "name": "ws_notification",
+  "version": "1.0.0",
+  "description": "notification using websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.2",
+    "express": "~4.14.0",
+    "nodemon": "^1.10.2",
+    "socket.io": "1.4.8"
+  },
+  "author": "thucdx",
+  "license": "ISC"
+}
